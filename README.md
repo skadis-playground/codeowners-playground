@@ -144,3 +144,4 @@ Where:
 In the situation where you have multiple AWS accounts or regions, you often have to pass common variables down to each
 of your modules. Rather than copy/pasting the same variables into each `terragrunt.hcl` file, in every region, and in
 every environment, you can inherit them from the `inputs` defined in the root `terragrunt.hcl` file.
+# codeowners-playground
