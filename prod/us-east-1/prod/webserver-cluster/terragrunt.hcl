@@ -14,7 +14,7 @@ include "root" {
   path = find_in_parent_folders()
 }
 
-#test
+# test
 
 # Include the envcommon configuration for the component. The envcommon configuration contains settings that are common
 # for the component across all environments.
