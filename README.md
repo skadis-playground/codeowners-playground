@@ -51,7 +51,7 @@ you are interested in battle-tested, production-ready Terraform code, check out 
 1. If the plan looks good, run `terragrunt apply`.
 
 
-### Deploying all modules in a region
+### Deploying all modules in a region test
 
 1. `cd` into the region folder (e.g. `cd non-prod/us-east-1`).
 1. Configure the password for the MySQL DB as an environment variable: `export TF_VAR_master_password=(...)`.
